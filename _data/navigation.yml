@@ -1,10 +1,12 @@
 # main links links
 main:
+
+  - title: "Work in progress"
+    url: /work_in_progress/
+
   - title: "Publications"
     url: /publications/
   
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
