@@ -10,10 +10,15 @@
  *
 */
 
+/*load in ET bembo, a custom font */
+@font-face {
+  font-family: "et-bembo";
+  src: url("../assets/fonts/font/et-book-roman-line-figures.tff");
+}
 
 
 /* system typefaces */
-$serif: Lora, Georgia, Times, serif !default;
+$serif: Lora, Georgia, Times, "et-bembo", serif !default;
 $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
@@ -28,10 +33,11 @@ $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
+$bembo: "et-bembo", serif !default; 
 
-$global-font-family            : $garamond !default;
-$header-font-family           : $garamond !default;
-$caption-font-family          : $garamond !default;
+$global-font-family            : $bembo !default;
+$header-font-family           : $bembo !default;
+$caption-font-family          : $bembo !default;
 
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
