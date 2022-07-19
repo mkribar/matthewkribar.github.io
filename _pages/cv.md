@@ -10,4 +10,4 @@ redirect_from:
 You can download the latest version of my CV [here]({% link files/latest_cv.pdf %}).
 
 
-{% pdf "/files/latest_cv.pdf" no_link %}
+
