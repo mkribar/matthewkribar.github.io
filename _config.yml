@@ -260,12 +260,11 @@ timezone:   America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_
 
 # Plugins
 plugins:
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-redirect-from
+  - jekyll-pdf-embed
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-sitemap
   - jekyll-gist
   - jemoji
 
