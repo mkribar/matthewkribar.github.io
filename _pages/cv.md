@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download the latest version of my CV [here]({% link files/latest_cv.pdf %}).
+You can download the latest version of my CV [here]({% link files/Ribar_CV_October2023.pdf %}).
 
 
 
