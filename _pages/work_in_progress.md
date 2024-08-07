@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Papers from the book project:"
-permalink: /work_in_progress/
+permalink: /research/
 author_profile: true
 ---
 
