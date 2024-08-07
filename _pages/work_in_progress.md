@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Work in progress"
+title: "Papers from the book project:"
 permalink: /work_in_progress/
 author_profile: true
 ---
-
-# Papers from the book project: #
 
 **Land, Power, and Property Rights: The Political Economy of Land Titling in West Africa** [\[Link to paper\]]({% link files/Ribar_JMP.pdf %})
 
