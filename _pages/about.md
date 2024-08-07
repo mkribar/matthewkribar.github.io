@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  image: /assets/images/image-filename.jpg  
 ---
 
 I am a Ph.D. candidate in the department of political science at Stanford University. I study the political economy of land, development, and violence with a regional focus on West Africa. In my dissertation project, I examine why some households in the developing world choose to formalize their landholdings, while other households do not. I am currently collaborating with Mercy Corps on a random control trial in Niger which studies strategies to reduce youth vulnerability to violent extremism. 
