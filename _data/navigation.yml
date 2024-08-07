@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Dissertation Project"
+    url: /dissertation/
+
   - title: "Work in progress"
     url: /work_in_progress/
 
