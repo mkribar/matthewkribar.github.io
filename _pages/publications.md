@@ -19,5 +19,5 @@ Thomas Coen, Sarah M. Hughes, **Matthew K. Ribar**, William Valetta, and Kristen
 
 Candace Miller, Kristine Bos, Ali Protik, Randall Blair, Paolo Abarcar, and **Matthew K. Ribar**. 2019. Evaluation Design Report for the Liberia Energy Project: Activities 1 and 2. Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research.  
 
-Laura Spano, Philip Alpers, Erly Munoz, and **Matthew K. Ribar**. 2018. [Implementing the Arms Trade Treaty and the UNPoA](https://dog.org/10.6084/M9.FIGSHARE.5441200): A Guide to Coordinating an Effective Arms Control System. Sydney: Centre for Armed Violence Reduction. 
+Laura Spano, Philip Alpers, Erly Munoz, and **Matthew K. Ribar**. 2018. [Implementing the Arms Trade Treaty and the UNPoA](https://unrcpd.org/wp-content/uploads/2018/05/Implementing-the-Arms-Trade-Treaty-and-the-UNPoA-A-Guide.pdf): A Guide to Coordinating an Effective Arms Control System. Sydney: Centre for Armed Violence Reduction. 
 
