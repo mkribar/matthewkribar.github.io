@@ -17,7 +17,7 @@ Clair Null, Edith Felix, Audrey Moore, Abbie Turiansky, Jane Fortson, Evan Fanto
 
 Thomas Coen, Sarah M. Hughes, **Matthew K. Ribar**, William Valetta, and Kristen Velyvis. 2019. [Evaluation of the Irrigation and Water Resource Management Project in Senegal: Interim Evaluation Report](https://doi.org/10.3886/egx2-f084). Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research. 
 
-Candace Miller, Kristine Bos, Ali Protik, Randall Blair, Paolo Abarcar, and **Matthew K. Ribar**. 2019. Evaluation Design Report for the Liberia Energy Project: Activities 1 and 2. Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research.  
+Candace Miller, Kristine Bos, Ali Protik, Randall Blair, Paolo Abarcar, and **Matthew K. Ribar**. 2019. [Evaluation Design Report for the Liberia Energy Project: Activities 1 and 2](https://mcc.icpsr.umich.edu/evaluations/index.php/catalog/1445). Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research.  
 
 Laura Spano, Philip Alpers, Erly Munoz, and **Matthew K. Ribar**. 2018. [Implementing the Arms Trade Treaty and the UNPoA](https://unrcpd.org/wp-content/uploads/2018/05/Implementing-the-Arms-Trade-Treaty-and-the-UNPoA-A-Guide.pdf): A Guide to Coordinating an Effective Arms Control System. Sydney: Centre for Armed Violence Reduction. 
 
