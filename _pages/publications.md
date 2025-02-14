@@ -9,7 +9,7 @@ author_profile: true
 
 # Academic publications
 
-Matthew K. Ribar. 2017. ["Feeding conflict? New data on the impact of humanitarian food aid on civil conflict"]({% link files/Feeding_conflict.pdf %}). Forthcoming at the *Journal of Global Security Studies*. 
+Matthew K. Ribar. 2025. ["Feeding conflict? New data on the impact of humanitarian food aid on civil conflict"]({% link files/Feeding_conflict.pdf %}). Forthcoming at the *Journal of Global Security Studies*. 
 
 Matthew K. Ribar. 2017. ["Keeping Up with the Times: How the Discipline of International Relations Responds to Benchmark Events"](http://dx.doi.org/10.1093/isp/ekw005). *International Studies Perspectives* 18(3): 304-322. 
 
