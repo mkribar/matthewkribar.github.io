@@ -10,6 +10,7 @@ author_profile: true
 # Academic publications
 
 Matthew K. Ribar. 2025. ["Feeding conflict? New data on the impact of humanitarian food aid on civil conflict"](https://academic.oup.com/jogss/article-abstract/doi/10.1093/jogss/ogaf002/8045922). *Journal of Global Security Studies,* First View. 
+\vspace{-10pt}
 * [Ungated version]({% link files/Feeding_conflict.pdf %})
 * [Replication files](https://github.com/mkribar/feeding_conflict)
 
