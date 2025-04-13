@@ -9,6 +9,3 @@ redirect_from:
 
 You can download the latest version of my CV [here]({% link files/Ribar_CV.pdf %}).
 
-
-
-this is a test
