@@ -1,19 +1,14 @@
 ---
 layout: archive
-title: "Papers from the book project:"
+title: "Working papers:"
 permalink: /research/
 author_profile: true
 ---
 
-**Land, Power, and Property Rights: The Political Economy of Land Titling in West Africa** [\[Link to paper\]]({% link files/Ribar_JMP.pdf %})
-
-Rural households who obtain a formal, written land title for their landholdings benefit relative to households whose lands remain informal. However, the uptake of such titles remains slow and uneven, despite their availability. This paper illustrates how the local politics of customary institutions, alongside national land regimes, resolve this empirical puzzle. I combine 170,216 household-level observations of titling with a novel geospatial measure of both land values and the returns to agricultural investment. Households in areas with high returns to potential agricultural investment are more likely to title. In countries with centralized land tenure regimes, strong customary institutions attenuate this relationship; in countries with decentralized land regimes, strong customary institutions reinforce it. I also leverage an original survey of 801 households and 191 customary elites in the central cocoa belt of Cote d’Ivoire to trace how village chiefs capture devolved land titling institutions to discriminate against relative newcomers and reinforce their own authority. This research expands the study of property rights in the developing world by documenting extensive and granular variation in the uptake of land titles, by showing how local politics explain this variation, and by outlining the conditions under which customary elites impede or facilitate development. **This paper has been conditionally accepted at the  American Political Science Review.** 
 
 **Land, power, and property rights: Conjoint evidence from Senegal and Cote d'Ivoire** [\[Link to paper\]]({% link files/conjoint.pdf %})
 
 Only 15 percent of households in rural Africa possess formal titles for their agricultural landholdings, despite the availability of titles. This paper explores whether households’ distrust in formal institutions constraints the perceived returns to land tenure security. I administer a field conjoint experiment to 1,965 household heads across rural Senegal and Cote d'Ivoire, in which respondents selected which of a pair of profiles would win a hypothetical land dispute. Across levels of trust in both formal and informal institutions, a profile having a formal land title consistently dominates other conjoint profiles. After accounting for switching error, respondents selected a conjoint profile with a title to win the hypothetical land dispute almost 100 percent of the time. A subset of respondents in Cote d'Ivoire provide similar answers when asked how likely households would be to prevent government expropriation. I also estimate a structural topic model using free-response answers to the paired conjoint experiment which shows how respondents are more likely to discuss the profile's sex and level of investment on the land when titles do not distinguish profiles. This research suggests that neither cultural idiosyncrasies surrounding land ownership nor distrust of titles explain the puzzling lack of land tenure formalization across sub-Saharan Africa. 
-
-# Other Research: #
 
 **Getting to youths: development programming, conflict resolution, and political violence in Niger \[with Kathryn M. Lance, Ryan Sheely, and Ifeoluwa M. Olawole \].**  [\[Link to paper\]]({% link files/Getting_to_Youths.pdf %})
  
