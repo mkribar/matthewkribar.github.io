@@ -1,22 +1,25 @@
 ---
 layout: archive
-title: "Research"
+title: " "
 permalink: /research/
 author_profile: true
 ---
 
-# Publications
+## Publications
 
-## Academic publications
+Matthew K. Ribar. 2025. ["Land, Power, and Property Rights: The Political Economy of Land Titling in sub-Saharan Africa"](https://doi.org/10.1017/S0003055425100981). *American Political Science Review* (firstview) [[replication files](https://doi.org/10.7910/DVN/1FTZQS)].
 
-Matthew K. Ribar. 2025. ["Land, Power, and Property Rights: The Political Economy of Land Titling in sub-Saharan Africa"](https://doi.org/10.1017/S0003055425100981). *American Political Science Review* (firstview) [Replication files](\href{https://doi.org/10.7910/DVN/1FTZQS).
+* African Politics Conference Group's 2025 'Best Graduate Student Paper' award.
 
-* African Politics Conference Group's 2025 `Best Graduate Student Paper' award.
+Rebecca Janssen and Matthew K. Ribar. 2025. ["Expertise, accuracy, and reputation inflation in the wine market: Evidence from Vivino ratings"](https://doi.org/10.1017/jwe.2025.10090). *Journal of Wine Economics* 20(4): 348-370.
 
-Matthew K. Ribar. 2025. ["Feeding conflict? New data on the impact of humanitarian food aid on civil conflict"](https://academic.oup.com/jogss/article-abstract/doi/10.1093/jogss/ogaf002/8045922). *Journal of Global Security Studies,* 10(2) [Ungated version]({% link files/Feeding_conflict.pdf %}) [Replication files](https://github.com/mkribar/feeding_conflict).
+Matthew K. Ribar. 2025. ["Feeding conflict? New data on the impact of humanitarian food aid on civil conflict"](https://doi.org/10.1093/jogss/ogaf002). *Journal of Global Security Studies* 10(2) [[replication files](https://github.com/mkribar/feeding_conflict)].
 
 Matthew K. Ribar. 2017. ["Keeping Up with the Times: How the Discipline of International Relations Responds to Benchmark Events"](http://dx.doi.org/10.1093/isp/ekw005). *International Studies Perspectives* 18(3): 304-322.
 
+* Published as a SAGE Research Methods Case Study [[link](https://doi.org/10.4135/9781526490520)].
+
+<!--
 ## Policy publications
 
 Clair Null, Edith Felix, Audrey Moore, Abbie Turiansky, Jane Fortson, Evan Fantozzi, Dara Bernstein, Emma Pottinger, **Matthew K. Ribar**, and Loay Hidmi. 2020. [The Water, Sanitation, and Hygiene (WASH) Project in Cabo Verde: Interm Evaluation Report](https://doi.org/10.3886/s8gw-4c86). Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research.
@@ -26,29 +29,50 @@ Thomas Coen, Sarah M. Hughes, **Matthew K. Ribar**, William Valetta, and Kristen
 Candace Miller, Kristine Bos, Ali Protik, Randall Blair, Paolo Abarcar, and **Matthew K. Ribar**. 2019. [Evaluation Design Report for the Liberia Energy Project: Activities 1 and 2](https://mcc.icpsr.umich.edu/evaluations/index.php/catalog/1445). Report submitted to the Millennium Challenge Corporation. Washington, DC: Mathematica Policy Research.
 
 Laura Spano, Philip Alpers, Erly Munoz, and **Matthew K. Ribar**. 2018. [Implementing the Arms Trade Treaty and the UNPoA](https://unrcpd.org/wp-content/uploads/2018/05/Implementing-the-Arms-Trade-Treaty-and-the-UNPoA-A-Guide.pdf): A Guide to Coordinating an Effective Arms Control System. Sydney: Centre for Armed Violence Reduction.
+-->
 
-# Working Papers
+## Working Papers
 
-**Land, power, and property rights: Conjoint evidence from Senegal and Cote d'Ivoire** [\[Link to paper\]]({% link files/conjoint.pdf %})
+Getting to Youths: Development Programming, Conflict Resolution, and Political Violence in Niger (with Kathryn M. Lance, Ryan Sheely, and Ifeoluwa M. Olawole) [[link to working paper]({% link files/Getting_to_Youths.pdf %})] **Under review.**
 
-Only 15 percent of households in rural Africa possess formal titles for their agricultural landholdings, despite the availability of titles. This paper explores whether households' distrust in formal institutions constraints the perceived returns to land tenure security. I administer a field conjoint experiment to 1,965 household heads across rural Senegal and Cote d'Ivoire, in which respondents selected which of a pair of profiles would win a hypothetical land dispute. Across levels of trust in both formal and informal institutions, a profile having a formal land title consistently dominates other conjoint profiles. After accounting for switching error, respondents selected a conjoint profile with a title to win the hypothetical land dispute almost 100 percent of the time. A subset of respondents in Cote d'Ivoire provide similar answers when asked how likely households would be to prevent government expropriation. I also estimate a structural topic model using free-response answers to the paired conjoint experiment which shows how respondents are more likely to discuss the profile's sex and level of investment on the land when titles do not distinguish profiles. This research suggests that neither cultural idiosyncrasies surrounding land ownership nor distrust of titles explain the puzzling lack of land tenure formalization across sub-Saharan Africa.
+Intra-respondent reliability and enumerator quality in field conjoint experiments [[link to working paper]({% link files/enumerator_irr.pdf %})] **Under review.**
 
-**Getting to youths: development programming, conflict resolution, and political violence in Niger \[with Kathryn M. Lance, Ryan Sheely, and Ifeoluwa M. Olawole \].**  [\[Link to paper\]]({% link files/Getting_to_Youths.pdf %})
+* Invited to revise and resubmit at *Political Science Research & Methods.*
 
-What types of interventions are effective at reducing young people's participation political violence? A growing literature evaluates a diverse array of economic, civic engagement, and psychosocial interventions but little is known about how different types of interventions interact. This paper presents a cluster-randomized control trial in the Maradi and Tillaberi regions of Niger. In the context of a broader vocational training and civic engagement program, young people (aged 15-34) in randomly assigned villages participated in trainings in Interest-Based Negotiation and Mediation (IBNM), an approach to conflict management. In a follow-up survey of 1,734 youth across 118 villages, we show that youth who participated in both Youth Connect and IBNM training are less likely to support violence than youth who only participated in Youth Connect a year after IBNM trainings took place. We find no difference between youth who participated in Youth Connect by itself and a pure control group. A difference-in-differences approach using geo-referenced conflict incidents corroborates these results: villages which received both Youth Connect and IBNM experienced fewer violent incidents than villages which only received Youth Connect. This research evaluates a promising intervention which is low-cost, light-touch, and can be layered atop conventional violence prevention programming. **I have been invited to revise and resubmit this paper to the American Political Science Review.**
+Belonging, violence, and natural resource governance: experimental evidence from Mali and Niger (with Alma Bezares Calderón, Simon Mercer, and Ifeoluwa M. Olawole) [[link to working paper]({% link files/JASS__paper.pdf %})] **Under review.**
 
-**Belonging, violence, and natural resource governance: experimental evidence from Mali and Niger [\[Link to paper\]]({% link files/JASS__paper.pdf %}).**
+* Invited to revise and resubmit at the *Journal of Peace Research.*
 
-Effective and inclusive natural resource governance is crucial for conflict resolution, economic growth, and climate resilience, but is complicated by environmental degradation and the presence of non-state armed groups in the Sahel. African governments and donor organizations have alternatively implemented both community-led and state-led natural resource governance interventions, but it is unclear what governance strategies will be successful in the face of these challenges. We use a survey experiment of 3,607 rural household heads in Mali and Niger to understand what factors drive the perceived effectiveness of natural resource governance systems. We show that (1) respondents consistently believe that a community-led natural resource governance system would be more effective, more equitable, and more resilient to climate than either the status quo or a state-led system; (2) that members of local ethnic outgroups have greater confidence in community-led and state-led regimes relative to the status quo; and (3) exposure to violence reduces confidence in these proposed system. By illustrating both individual and community-level factors that drive confidence in different natural resource governance regimes, this research expands the body of evidence concerning institution-building and land governance. The institutional pluralism which characterizes rural institutions in much of Africa means that building trust and support for natural resource governance is crucial to its success; consequently, these results have important implications for both designing and targeting governance interventions.
+Land, power, and property rights: Conjoint evidence from Sénégal and Côte d'Ivoire [[link to working paper]({% link files/conjoint.pdf %})].
 
-**Intra-respondent reliability and enumerator quality in field conjoint experiments** [\[Link to paper\]]({% link files/enumerator_irr.pdf %})
+* Previously published as Structural Transformation and Economic Growth (STEG) working paper no. 72 [[link to STEG paper](https://steg.cepr.org/publications/who-wants-property-rights-conjoint-evidence-senegal)].
 
-Conjoint experiments ask respondents to consider multiple `treatments' simultaneously, leading respondents to make errors in their responses. Field conjoint experiments, which are often administered by teams of enumerators, introduce another error point because enumerators may be poor quality. However, calculating enumerator intra-respondent reliability (IRR) at the enumerator level provides researchers a tool to monitor enumerator performance specifically for the conjoint experiment. Other common proxies for enumerator quality do not correlate with IRR, which stabilizes at the enumerator level after as few as 15 completed surveys.
+Pitfalls and tradeoffs in measuring support for violent extremism: Evidence from Niger and Burkina Faso (with Ryan Sheely and Adam Lichtenheld) [[link to working paper]({% link files/Measuring.pdf %})].
 
-**Pitfalls and tradeoffs in measuring support for violent extremism: Evidence from Niger and Burkina Faso [with Ryan Sheely and Adam Lichtenheld]** [\[Link to paper\]]({% link files/Measuring.pdf %})
+Indirect Rule and the Endurance of Traditional Governance in Africa, prepared for *The Oxford Handbook on Traditional Law & Governance in Africa* (with Joan Ricart-Huguet).
 
-Academics, policymakers, and other researchers use a mixture of disparate strategies to measure growing support for violent extremism in the Sahel and elsewhere. This paper leverage the confluence of five different measures of support for violence to explore differences in how each captures the underlying phenomenon. These measurements include an original survey on support for violence among 1,772 youth in Niger and Burkina Faso, qualitative rankings of village-level vulnerability to violent extremism by local elites, and data from ACLED. Together, this data allows us to 1) provide insight into validly and reliably measuring violent extremism – a challenge for scholars and policymakers – and 2) explore the extent to which commonly used measurement strategies capture the same underlying phenomena.
+## Research in Progress
 
-**In Vi(vi)no Veritas? Expertise, review accuracy and reputation inflation [with Rebecca Janssen]** [\[Link to paper\]](https://dx.doi.org/10.2139/ssrn.4726192)
+Attention land predators! Power and Property in Rural West Africa (book manuscript in progress).
 
-Review systems including quantitative measures as well as text-based expression of experiences are omnipresent in today's digital platform economy. This paper studies the existence of reputation inflation, i.e. unjustified increases in ratings, with a special focus of heterogeneity between experienced and non-experienced users. Using data on more than 5 million reviews from an online wine platform we compare consistency between numerical feedback and textual reviews as well as sentiment measures. We show that overall the wine platform displays strongly increasing numerical feedback over our time period from 2014 to 2020 while this is not the case for our control measures. This gap appears to be even stronger for users with less experience or expertise in wine reviewing. We conclude, that online platforms as well as potential customers should be aware of the phenomenon of reputation inflation and simplifying feedback to one number might do a disservice to review platforms goal of providing a representative quality assessment.
+Social cohesion and exposure to violent conflict: Evidence from a panel survey in Ukraine (with Margit Tavits and Carly Wayne).
+
+Trust and Betrayal in Wartime: How Ukrainians Evaluate Foreign Support During the Russian Invasion (with Margit Tavits and Carly Wayne).
+
+War at Home: Conflict Exposure and Domestic Violence in Ukraine (with Margit Tavits and Carly Wayne).
+
+Trust Issues: How Citizens Evaluate State Interventions During Armed Conflict (with Ifeoluwa M. Olawole) [[pre-analysis plan](https://osf.io/3wb2k/)].
+
+Community Acceptance and Reintegration of Ex-Combatants: experimental evidence from the eastern Democratic Republic of the Congo (with Ifeoluwa M. Olawole) [[pre-analysis plan](https://osf.io/3szkd/)].
+
+Customary institutions and social cohesion after war (with Margit Tavits) [[pre-analysis plan](https://osf.io/gyzaw/)].
+
+Land Registration in Côte d'Ivoire: Consolidation of a national, land-owning elite (with Catherine Boone).
+
+Inventing custom? Evidence from court records in colonial Senegal (with Joan Ricart-Huguet and Lindsey Pruett).
+
+Escaping the Lean Season Trap: Emergency Food Assistance and Household Resilience in the Sahel (with Horace Gninafon, Jordan Kyle, and Philip Roessler) [[pre-analysis plan](https://osf.io/pxzyw/)].
+
+Historical cash crop production and land tenure formalization (with Philip Roessler).
+
+Countering radicalization in Mali through PREVENS (with Jamila Alaktif, Mamadou Camara, and David Laitin) [[pre-analysis plan](https://osf.io/pv396/)].
