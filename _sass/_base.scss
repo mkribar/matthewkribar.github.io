@@ -163,6 +163,12 @@ hr {
   border-top: 1px solid $border-color;
 }
 
+/* tighten gap between paragraphs and subsequent lists */
+p + ul,
+p + ol {
+  margin-top: -1.2em;
+}
+
 /* lists */
 
 ul li,
