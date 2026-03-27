@@ -2,6 +2,34 @@
 
 <!-- start custom head snippets -->
 
+<!-- ET Book font (Edward Tufte's typeface), hosted locally -->
+<style>
+  @font-face {
+    font-family: "ET Book";
+    src: url("{{ base_path }}/assets/fonts/et-book/et-book-roman-line-figures.woff") format("woff"),
+         url("{{ base_path }}/assets/fonts/et-book/et-book-roman-line-figures.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "ET Book";
+    src: url("{{ base_path }}/assets/fonts/et-book/et-book-display-italic-old-style-figures.woff") format("woff"),
+         url("{{ base_path }}/assets/fonts/et-book/et-book-display-italic-old-style-figures.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "ET Book";
+    src: url("{{ base_path }}/assets/fonts/et-book/et-book-bold-line-figures.woff") format("woff"),
+         url("{{ base_path }}/assets/fonts/et-book/et-book-bold-line-figures.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+</style>
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
