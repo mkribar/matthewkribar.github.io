@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Matthew K. Ribar"
+title: " "
 header:
   image: header.jpg 
 excerpt: "About me"

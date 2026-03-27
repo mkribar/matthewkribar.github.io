@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Land, Power, and Property Rights: The Political Economy of Land Titling in West Africa"
-permalink: /dissertation/
+title: "Attention land predators! Power and Property in Rural West Africa"
+permalink: /book/
 author_profile: true
 ---
 
