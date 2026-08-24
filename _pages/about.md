@@ -17,3 +17,4 @@ My work has also been supported by the United States Agency for International De
 
 I earned my Ph.D. at the department of political science at Stanford University in 2025. I also hold an MA in political science from Stanford University and a BA in International Relations jointly from the College of William & Mary and the University of St. Andrews. Before my Ph.D., I worked as a program associate at Mathematica Policy Research, where I supported impact evaluations of Millennium Challenge Corporation programs in Senegal, Benin, Liberia, and Cabo Verde. 
 
+__I am on the 2026-2027 academic job market.__
